@@ -1,0 +1,5 @@
+/// Implements ERC 20 Token standard: https://github.com/ethereum/EIPs/issues/20
+
+/// @title Abstract token contract - Functions to be implemented by token contracts.
+/// @author Stefan George - <
+//0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009
